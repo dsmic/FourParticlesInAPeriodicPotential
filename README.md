@@ -16,14 +16,16 @@ The study evaluates scenarios such as:
 ## Approach
 1. **Potential Setup**:
    - A periodic potential defined as:
-     \[ V(x) = -A \cdot \cos(2 \pi a x) \]
+     ```
+     V(x) = -A * cos(2 * pi * a * x)
+     ```
 
 2. **Wavefunctions**:
    - Spatial wavefunctions modeled as localized Gaussians.
-   - Spins indexed using \( \tilde{\sigma}_i \) for each basis function.
+   - Spins indexed using `~σ_i` for each basis function.
 
 3. **Energy Calculations**:
-   - Total energy calculated by analytically evaluating integrals and numerically minimizing localization width parameters \( \alpha_i \).
+   - Total energy calculated by analytically evaluating integrals and numerically minimizing localization width parameters `α_i`.
 
 ## Contents
 - `four_particle_study.tex`: LaTeX document containing the full study.
