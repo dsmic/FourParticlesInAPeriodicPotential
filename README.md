@@ -1,4 +1,5 @@
 # Analysis of Four Particles in a Periodic Cosine Potential
+[Location of this project](https://github.com/dsmic/FourParticlesInAPeriodicPotential)
 
 ## Overview
 This repository contains the analysis and results of a study on four quantum particles in a one-dimensional periodic cosine potential. The main objective is to investigate the effects of spin configurations and spatial arrangements on the system's total energy.
